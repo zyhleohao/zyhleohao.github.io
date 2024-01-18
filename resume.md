@@ -3,9 +3,7 @@
 # EDUCATION：
 University of Washington Seattle, College of Art & Science, Department of Geography, B.A. Geography: Data Science， Minor in Music 
 Expected Grad Date: June 2024
-https://yt3.googleusercontent.com/ytc/AIf8zZSnacW2pmL3uZePG73NvBMhshJ00X7Wn1yi8KhX4g=s900-c-k-c0x00ffffff-no-rj
-
-
+![UW logo](https://yt3.googleusercontent.com/ytc/AIf8zZSnacW2pmL3uZePG73NvBMhshJ00X7Wn1yi8KhX4g=s900-c-k-c0x00ffffff-no-rj)
 # Internship Experience
 
 ## ObEn - Marketing | June 2019 - July 2019 |
