@@ -6,7 +6,8 @@ Expected Grad Date: June 2024
 ![UW logo](https://yt3.googleusercontent.com/ytc/AIf8zZSnacW2pmL3uZePG73NvBMhshJ00X7Wn1yi8KhX4g=s900-c-k-c0x00ffffff-no-rj)
 # Internship Experience
 
-## ObEn - Marketing | June 2019 - July 2019 |
+## ObEn - Marketing 
+>| June 2019 - July 2019 |
 *[AI & Blockchain Corporation], Pasadena, CA*
 
 
@@ -18,7 +19,8 @@ Expected Grad Date: June 2024
 
 [Link]: http://oben.me/
 
-## Turing - Computer Science | June 2020 - July 2020 |
+## Turing - Computer Science 
+>| June 2020 - July 2020 |
 
 *[AI & Robot Corporation, Silicon Valley], CA*
 
@@ -27,7 +29,8 @@ Expected Grad Date: June 2024
   
 [Link]: https://turing.ai/
 
-## JackBlack  - Marketing & Data Analysis | July 2020 - August 2020|October 2021 - December 2021 |
+## JackBlack  - Marketing & Data Analysis
+>|July 2020 - August 2020|October 2021 - December 2021 |
 
 *[Men's skin care corporation, data analysis department of China distributor], Guangzhou*
 
@@ -37,7 +40,8 @@ Expected Grad Date: June 2024
 
 [Link]:https://www.getjackblack.com/
 
-## Kugou Music  - Marketing | July 2021 - August 2021 |
+## Kugou Music  - Marketing
+>|July 2021 - August 2021 |
 
 *[Digitial music corporation], Guangzhou, China*
 
