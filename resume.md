@@ -9,7 +9,7 @@ Expected Grad Date: June 2024
 # Internship Experience
 
 ## ObEn - Marketing | June 2019 - July 2019 |
-* [AI & Blockchain Corporation], Pasadena, CA*
+* [AI & Blockchain Corporation][], Pasadena, CA*
 
 - Researched on the current AI market
 - Brainstorm about what platforms or apps can use ObEN’s personal AI
