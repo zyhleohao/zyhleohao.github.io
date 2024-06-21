@@ -2,7 +2,7 @@
 ![download](https://github.com/zyhleohao/zyhleohao.github.io/assets/129431505/6f06b22b-6151-4986-9697-5b7993b496e9)
 
 
-Following a calamity, GIS is instrumental in the assessment of the extent of damage and design of the recovery programs. Spatial comparison between pre- and post-disaster imagery helps to quantify effects on different sectors such as infrastructure, housing, and natural resources which in turn inform resource distribution about where efforts should be focused to guide reconstruction and ensure effective allocation. In addition, GIS fosters sustainability of resilience programs through allowing integration of a wide range of disaster management initiatives based on historical information plus future trends obtained from the analysis: thus communities can adopt more structural resilient systems and land use practices aimed at curbing vulnerability to similar disasters in future years.
+Following a calamity, **GIS** is instrumental in the assessment of the extent of damage and design of the recovery programs. Spatial comparison between pre- and post-disaster imagery helps to quantify effects on different sectors such as infrastructure, housing, and natural resources which in turn inform resource distribution about where efforts should be focused to guide reconstruction and ensure effective allocation. In addition, GIS fosters sustainability of resilience programs through allowing integration of a wide range of disaster management initiatives based on historical information plus future trends obtained from the analysis: thus communities can adopt more structural resilient systems and land use practices aimed at curbing vulnerability to similar disasters in future years.
 
 
 ## Risk Assessment and Hazard Mapping
